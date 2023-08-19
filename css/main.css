@@ -556,7 +556,7 @@ header nav .bar {
     left: 240px;
 }
 #gallery .page-control {
-    top: 70%;
+    top: 85%;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -966,7 +966,7 @@ footer .footer-bottom > div span {
         left: -200px;
     }
     #gallery .page-control {
-        top: 30%;
+        top: 75%;
     }
 
     #contact {
